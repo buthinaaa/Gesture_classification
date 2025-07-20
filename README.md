@@ -8,8 +8,6 @@ This project aims to classify 10 different hand gestures using deep learning mod
 
 - `Gesture_Classification.ipynb`: Main training and evaluation notebook.
 - `Gesture_project_Documentation.pdf`: Detailed project report, including dataset description, model architectures, training process, and results.
-- `models/`: Folder containing model-specific training configurations and possibly trained weights (if saved).
-- `data/`: Preprocessed dataset directory organized by model (if applicable).
 
 ---
 
@@ -58,12 +56,3 @@ This project aims to classify 10 different hand gestures using deep learning mod
   - Scikit-learn
 - **Augmentation**: Keras `ImageDataGenerator`
 - **Environment**: Google Colab
-
----
-
-## 🚀 How to Run
-
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/your-username/gesture-classification.git
-   cd gesture-classification
